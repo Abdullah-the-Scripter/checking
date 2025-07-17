@@ -1,2 +1,1 @@
-# checking
-this repository is just to check that how the github works
+so this is how we can make the changes in the upload files on the github first of all we click the file name then we click the pencil icon that appears in the bottom compoment and then after making the changes we can commit it
